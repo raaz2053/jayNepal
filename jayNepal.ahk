@@ -1,7 +1,7 @@
 delay := 1000*60*1.5
 
 ^q::
-    Loop, 1000 {
+    Loop, 10 {                                       ;specify the number of loops and control q is the activator
         send balla ta rat pareko chha
         Send {Enter}
         Sleep delay
