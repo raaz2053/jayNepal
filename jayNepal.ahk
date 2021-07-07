@@ -8,7 +8,13 @@ delay := 1000*60*1.5
         send @prashant Nabola jhuta kura baru kei navana
         Send {Enter}
         Sleep delay
+        send prashant bhola khayera jhyaap ma xa
+        Send {Enter}
+        Sleep delay
         send Eheh.. kata ho tyo @prashant 
+        Send {Enter}
+        Sleep delay
+        send prashant bhola khayera jhyaap ma xa
         Send {Enter}
         Sleep delay
         send k cha yar
@@ -26,10 +32,16 @@ delay := 1000*60*1.5
         send ho ney ta asti euta le tips mageko bataideko jhandai marena
         Send {Enter}
         Sleep delay
+        send Jhapali bhayepaxi testai dukha hudo raicha
+        Send {Enter}
+        Sleep delay
         send Ohoho ramailo
         Send {Enter}
         Sleep delay
         send Daju ko ghar ma masu pakya mero ma basna auchha
+        Send {Enter}
+        Sleep delay
+        send Daju ko ghar ma toilet jada mero ma atti ganauxa
         Send {Enter}
         Sleep delay
         send nindrai lagena bhanya k broo aba k po garne ho
